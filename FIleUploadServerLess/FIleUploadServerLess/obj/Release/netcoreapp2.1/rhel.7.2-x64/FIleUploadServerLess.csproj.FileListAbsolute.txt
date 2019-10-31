@@ -1,0 +1,11 @@
+C:\Users\vkonduru\Desktop\uploadfiles\FIleUploadServerLess_PersonalTest\FIleUploadServerLess\FIleUploadServerLess\bin\Release\netcoreapp2.1\rhel.7.2-x64\FIleUploadServerLess.deps.json
+C:\Users\vkonduru\Desktop\uploadfiles\FIleUploadServerLess_PersonalTest\FIleUploadServerLess\FIleUploadServerLess\bin\Release\netcoreapp2.1\rhel.7.2-x64\FIleUploadServerLess.runtimeconfig.json
+C:\Users\vkonduru\Desktop\uploadfiles\FIleUploadServerLess_PersonalTest\FIleUploadServerLess\FIleUploadServerLess\bin\Release\netcoreapp2.1\rhel.7.2-x64\FIleUploadServerLess.runtimeconfig.dev.json
+C:\Users\vkonduru\Desktop\uploadfiles\FIleUploadServerLess_PersonalTest\FIleUploadServerLess\FIleUploadServerLess\bin\Release\netcoreapp2.1\rhel.7.2-x64\FIleUploadServerLess.dll
+C:\Users\vkonduru\Desktop\uploadfiles\FIleUploadServerLess_PersonalTest\FIleUploadServerLess\FIleUploadServerLess\bin\Release\netcoreapp2.1\rhel.7.2-x64\FIleUploadServerLess.pdb
+C:\Users\vkonduru\Desktop\uploadfiles\FIleUploadServerLess_PersonalTest\FIleUploadServerLess\FIleUploadServerLess\obj\Release\netcoreapp2.1\rhel.7.2-x64\FIleUploadServerLess.csprojAssemblyReference.cache
+C:\Users\vkonduru\Desktop\uploadfiles\FIleUploadServerLess_PersonalTest\FIleUploadServerLess\FIleUploadServerLess\obj\Release\netcoreapp2.1\rhel.7.2-x64\FIleUploadServerLess.csproj.CoreCompileInputs.cache
+C:\Users\vkonduru\Desktop\uploadfiles\FIleUploadServerLess_PersonalTest\FIleUploadServerLess\FIleUploadServerLess\obj\Release\netcoreapp2.1\rhel.7.2-x64\FIleUploadServerLess.AssemblyInfoInputs.cache
+C:\Users\vkonduru\Desktop\uploadfiles\FIleUploadServerLess_PersonalTest\FIleUploadServerLess\FIleUploadServerLess\obj\Release\netcoreapp2.1\rhel.7.2-x64\FIleUploadServerLess.AssemblyInfo.cs
+C:\Users\vkonduru\Desktop\uploadfiles\FIleUploadServerLess_PersonalTest\FIleUploadServerLess\FIleUploadServerLess\obj\Release\netcoreapp2.1\rhel.7.2-x64\FIleUploadServerLess.dll
+C:\Users\vkonduru\Desktop\uploadfiles\FIleUploadServerLess_PersonalTest\FIleUploadServerLess\FIleUploadServerLess\obj\Release\netcoreapp2.1\rhel.7.2-x64\FIleUploadServerLess.pdb
